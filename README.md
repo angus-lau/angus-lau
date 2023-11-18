@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Angus
+### Hi there 👋 my name is angus
 
 <!--
 **angus-lau/angus-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
